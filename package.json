@@ -1,0 +1,27 @@
+{
+  "name": "be-perpustakaanuai",
+  "version": "1.0.0",
+  "description": "be perpustakaan uai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsftri/perpustakaanUAI.git"
+  },
+  "keywords": [
+    "back",
+    "end",
+    "node",
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "arsftri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsftri/perpustakaanUAI/issues"
+  },
+  "homepage": "https://github.com/arsftri/perpustakaanUAI#readme"
+}
